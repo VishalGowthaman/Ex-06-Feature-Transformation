@@ -1,11 +1,9 @@
 # Ex-06-Feature-Transformation
 
 ## AIM
-
 To read the given data and perform Feature Transformation process and save the data to a file.
 
 ## EXPLANATION
-
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
 ## ALGORITHM
@@ -23,11 +21,11 @@ Apply Feature Transformation techniques to all the features of the data set
 Print the transformed features
 
 ## PPROGRAM:
-
 ```
-
-
-
+Developed by : VISHAL GOWTHAMAN K R
+Registration Number : 212221230123
+```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
